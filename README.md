@@ -9,5 +9,3 @@ For Coding:
 - https://pybricks.com/ev3-micropython/examples/robot_educator_basic.html
 - https://ev3-tutorial.readthedocs.io/en/latest/intro/intro.html
 
-Test algorithm:
-- https://replit.com/join/mqlveziyik-ryanames2 
